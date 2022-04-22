@@ -1,6 +1,6 @@
 import './app.css';
 import SearchBar from '../search-bar/search-bar';
-import Books from '../../front-end-challenge/books';
+import Books from '../../front-end/books';
 import { useEffect, useState } from 'react';
 
 function App() {
